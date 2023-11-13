@@ -1,6 +1,5 @@
 ;RVERBERATOR Reverb generator. 
 ;Controled variables listed on device.
-;Arnas Luko.
 <CsoundSynthesizer>
 <CsOptions>
 </CsOptions>
